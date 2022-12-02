@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=BhuTuka+Expanded+One&display=swap');
+
+ body {
+   background-image: linear-gradient(#FF83AB, #ffffff);
+   /* background-color: #bebebe; */
+   background-repeat: no-repeat;
+   background-size: cover;
+ } 
+ .camel {
+   font-family: 'BhuTuka Expanded One', cursive;
+   border: 3px solid #FA0050;
+   padding: 3%;
+   margin: 3px;
+
+   /* box-shadow: 0 0 55px #ff83AB ; */
+box-shadow: 0 0 65px #000000; 
+   border-radius: 30px 70px;
+   margin-top: 5%;
+ }
+
+
